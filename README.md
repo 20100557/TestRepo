@@ -1,1 +1,31 @@
 # TestRepo
+<!DOCTYPE html>
+<html>
+<head>
+<title>1ulys.0_context</title>
+<meta charset="utf-8"/>
+</head>
+<body>
+<h1 id="ulyssvg">Payment and Cashing<img src="assets/icon-ulys.svg" alt="Ulys logo" /></h1>
+<h2 id="summary">Summary</h2>
+<p>Ulys is an API to manage cart workflow and offer a specific user experience depending on each payment mode : 
+mobility (RapidScan/MCO), self checkout (SCO), cashier checkout (CCO), etc.</p>
+
+<div class="drawio-diagram" style="max-width:100%;border:1px solid transparent;" 
+data-diagram-data="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"></div>
+<script src="https://laingsimon.github.io/render-diagram/drawio-renderer.js"></script>
+
+<p>Ulys Cart API houses most of the source codes for all Ulys modes. The tools used are:
+<ul>
+<li> <a href="https://en.wikipedia.org/wiki/Java_(programming_language">Java</a> and 
+<a href="http://groovy-lang.org">Groovy</a> are the programming languages for this project
+<li> <a href="https://spring.io/projects/spring-boot">Spring Boot</a> as the main framework
+<li> <a href="https://www.mongodb.com/cloud/atlas">MongoDB Atlas</a> or [Couchbase](https://www.couchbase.com) to store the data
+<li> <a href="https://kafka.apache.org">Apache Kafka</a> to publish data that can be consumed
+<li> <a href="https://hazelcast.com/">Hazelcast</a> to manage distributed cache </li>
+<li> <a href="https://github.com/intuit/karate">Karate</a> for test automation </li>
+</ul>
+</p>
+
+
+</body></html>
